@@ -1,0 +1,39 @@
+{
+  "productions": [
+    {
+      "id": "#1",
+      "product": "Milk",
+      "species": "Cow",
+      "shed": "1",
+      "date": "2024-02-05"
+    },
+    {
+      "id": "#2",
+      "product": "Meat",
+      "species": "Pig",
+      "shed": "2",
+      "date": "2024-02-06"
+    },
+    {
+      "id": "#3",
+      "product": "Butter",
+      "species": "Sheep",
+      "shed": "3",
+      "date": "2024-02-07"
+    },
+    {
+      "id": "#4",
+      "product": "Milk",
+      "species": "Cow",
+      "shed": "4",
+      "date": "2024-02-08"
+    },
+    {
+      "id": "#5",
+      "product": "Meat",
+      "species": "Chicken",
+      "shed": "5",
+      "date": "2024-02-09"
+    }
+  ]
+}
