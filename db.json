@@ -2,38 +2,43 @@
   "productions": [
     {
       "id": "#1",
-      "product": "Milk",
-      "species": "Cow",
       "shed": "1",
-      "date": "2024-02-05"
+      "species": "Cow",
+      "date": "2024-02-05",
+      "percentage": "50%",
+      "amount": "1000"
     },
     {
       "id": "#2",
-      "product": "Meat",
-      "species": "Pig",
       "shed": "2",
-      "date": "2024-02-06"
+      "species": "Pig",
+      "date": "2024-02-06",
+      "percentage": "60%",
+      "amount": "800"
     },
     {
       "id": "#3",
-      "product": "Butter",
-      "species": "Sheep",
       "shed": "3",
-      "date": "2024-02-07"
+      "species": "Sheep",
+      "date": "2024-02-07",
+      "percentage": "70%",
+      "amount": "700"
     },
     {
       "id": "#4",
-      "product": "Milk",
-      "species": "Cow",
       "shed": "4",
-      "date": "2024-02-08"
+      "species": "Cow",
+      "date": "2024-02-08",
+      "percentage": "80%",
+      "amount": "600"
     },
     {
       "id": "#5",
-      "product": "Meat",
-      "species": "Chicken",
       "shed": "5",
-      "date": "2024-02-09"
+      "species": "Chicken",
+      "date": "2024-02-09",
+      "percentage": "90%",
+      "amount": "500"
     }
   ]
 }
